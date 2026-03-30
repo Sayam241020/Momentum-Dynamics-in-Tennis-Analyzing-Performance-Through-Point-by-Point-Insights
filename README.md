@@ -38,8 +38,9 @@ The training dataset is located in the `train/wimbledon_2011_cleaned.csv` direct
 ## Dependencies
 
 - Python 3.x
-- Additional requirements (add specific libraries needed)
+- xgboost
+- numpy
+- pandas
+- matplotlib
+- lightgbm
 
-## License
-
-[Add your license information here]
